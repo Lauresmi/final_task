@@ -1,0 +1,238 @@
+* {
+    color: rgb(99, 96, 96);
+}
+
+p {
+    font-size: 10px;
+    text-align: justify;
+}
+
+a {
+    color: rgb(99, 96, 96);
+}
+
+#nav-items-grey {
+    font-size: 13px;
+}
+
+.logo-cat {
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+.wrapper-first-section {
+    height: 35px;
+}
+
+.nav-link {
+    color: grey;
+}
+
+.solid-2-page {
+    margin: 2px;
+}
+
+.wrapper-mid-section {
+    padding: 0;
+    width: 90%;
+    margin: auto;
+}
+
+.myCarousel {
+    height: 55vh;
+    padding: 0;
+}
+
+.c-image1, .c-image2, .c-image3, .c-image4, .c-image5 {
+    position: absolute;   
+    top: 50%;
+    transform: translateY(-40%);
+    width: 100%;
+}
+
+.carousel-item {
+    position: relative;
+    height: 100%;
+}
+
+.small-6, .large-1 {
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+.media-body{
+    margin: 4px;
+}
+
+.most-recent {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.article-text {
+    padding-right: 3px;
+}
+
+.carousel-inner {
+    height: 55vh;
+}
+
+.h-divider{
+    margin-top: 10px;
+    margin-bottom:10px;
+    width:100%;
+    border-top:1px solid lightgray;
+}
+
+hr.solid {
+    border-top: 2px solid rgb(70, 68, 68);
+}
+
+.footer {
+    height: 1rem;
+}
+
+form div i {
+    padding: 2px;
+}
+
+.failure-icon,
+.error {
+  color: red;
+}
+
+.success-icon {
+  color: green;
+}
+
+.error {
+  font-size: 14.5px;
+  margin-top: 5px;
+}
+
+.image-left {
+    padding: 5px;
+    background-position: center;
+    margin-top: 4px;
+}
+
+.article {
+    margin-left: 10px;
+}
+ 
+.pagination a {
+    float: left;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.breadcrumb {
+    font-size: 11px;
+    margin-bottom: 2px;
+}
+
+.pagination {
+    display: flex;
+    text-align: right;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.img-fluid {
+    padding: 2px;
+}
+
+.row-need-space {
+    margin-bottom: 20px;
+}
+
+.footer {
+    width: 90%;
+    margin-left: 30px;
+}
+
+.six-pictures {
+    padding-right: 10px;
+    justify-content: space-between;
+}
+
+.title-three-articles {
+    font-size: 13px;
+    margin-top: 2px;
+}
+
+img {
+    padding: 6px;
+}
+
+.col-article {
+    border: 2px solid lightgray;
+    margin-top: 5px;
+}
+
+.about-us, .embedded-map {
+    min-height: 25vh;
+}
+
+.wrapper-chat-general, .container-submitted-message {
+    border: 3px solid lightgrey;
+}
+
+.user-input-area {
+    height: 10vh;
+    width: 100%;
+}
+
+.wrapper-chat-general {
+    padding: 5px;
+    min-height: 560px;
+}
+
+.chat-submitted-messages {
+    height: 402px;
+    flex-direction: column;
+    display: flex;
+    overflow-y: scroll;
+    flex-shrink: 0;
+    border: 3px solid lightgrey;
+    margin: 0px;
+}
+
+.user-input-area {
+    height: 158px;
+    border: 3px solid lightgrey;
+    margin-top: 3px;
+}
+
+.username-input, .input-message {
+    border: 3px solid darkgray;
+}
+
+.username-submitted, .submitted-message, .timestamp, label {
+    font-size: 13px;
+}
+
+.username-submitted {
+    font-weight: bold;
+}
+
+.new-message {
+    background-color: rgb(238, 215, 215);
+    border: 3px solid lightgrey;
+    height: fit-content;
+}
+
+.wrapper-first-section {
+    min-height: 6vh;
+}
+
+.wrapper-mid-section {
+    min-height: 80vh;
+}
+
+.footer {
+    min-height: 1vh;
+}
